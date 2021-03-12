@@ -13,7 +13,7 @@
  
  ## Result 
  ***
-  <img src="output_photo\Screenshot (63).png">
+  <img src="backend/output_photo\Screenshot (63).png">
  ***
 
 ## Train Model
