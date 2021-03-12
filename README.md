@@ -9,7 +9,7 @@
  > pip install -r requirement.txt
  
  ## Result 
- ***bash
+ ***
   output
  ***
  
