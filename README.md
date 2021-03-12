@@ -5,4 +5,11 @@
 
 > https://github.com/sumitmohite0501/QuickDraw-backend.git
 
-<p> this </p>
+## Installations 
+ > pip install -r requirement.txt
+ 
+ ## Result 
+ ***bash
+ ![Output]()
+ ***
+ 
