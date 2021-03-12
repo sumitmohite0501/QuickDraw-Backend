@@ -3,7 +3,7 @@
 ## The trained neural network model should predict the drawn image correctly
 
 ## open project live 
->[Click Here](3.138.62.58)
+> http://3.138.62.58/home
 ## Clone this repository
 
 > https://github.com/sumitmohite0501/QuickDraw-backend.git
