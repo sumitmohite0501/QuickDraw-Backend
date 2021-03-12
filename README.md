@@ -10,6 +10,6 @@
  
  ## Result 
  ***bash
- ![Output]()
+  output
  ***
  
